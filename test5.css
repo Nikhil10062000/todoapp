@@ -1,0 +1,13 @@
+body{
+    box-sizing: border-box;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: darkgrey;
+    background-color: darkslateblue;
+}
